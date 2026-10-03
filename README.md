@@ -77,3 +77,7 @@ The app is not directed at children under 13 and collects no data from anyone.
 
 ## Changes and contact
 If this policy changes, we will update this page and the date above. Questions: [s137251.gs@gmail.com](mailto:s137251.gs@gmail.com)
+
+---
+
+Store listing assets: [store/](store/README.md)
